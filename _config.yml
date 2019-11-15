@@ -17,13 +17,13 @@ full-url: "https://wittline.github.io/" # the base hostname & protocol for your 
 
 # CSS
 sass:
-  style: expanded
+  style: compressed
 
 # Comments - Go to Disqus.com > sign up > get the short-name > insert it here
 disqus-shortname: 
 
 # Tracker
-analytics: UA-83979019-1
+analytics:
 
 # Form Settings
 #
@@ -39,7 +39,7 @@ version: 0.9
 
 # Post date background - This will change the background of the post date and tag ribbon according to the theme. If set to no default green background will be used. If yes then the theme color scheme is used.
 
-change-date-bg: no
+change-date-bg: yes
 
 
 # Build settings
