@@ -48,7 +48,7 @@ markdown: kramdown
 include: [_pages] # Includes files inside _pages directory [Do not remove this]
 
 author:
-  name: Ashwathama
+  name: Ramses Coraspe
   image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
   about: Ashwathama is a sage who wrote Mahabharatha. He is the son of Drona. He fought on the Kaurava side against the Pandavas. He put up a pretty good fight with mighty Bhima.
   twitter: webjeda  # https://twitter.com/ is automatically added
