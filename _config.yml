@@ -17,7 +17,7 @@ full-url: "https://wittline.github.io/" # the base hostname & protocol for your 
 
 # CSS
 sass:
-  style: compressed
+  style: expanded
 
 # Comments - Go to Disqus.com > sign up > get the short-name > insert it here
 disqus-shortname: 
