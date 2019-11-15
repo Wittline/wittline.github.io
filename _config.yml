@@ -51,9 +51,9 @@ author:
   name: Ramses Coraspe
   image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
   about: Ashwathama is a sage who wrote Mahabharatha. He is the son of Drona. He fought on the Kaurava side against the Pandavas. He put up a pretty good fight with mighty Bhima.
-  twitter: webjeda  # https://twitter.com/ is automatically added
-  facebook: webjeda # https://facebook.com/ is automatically added
-  email: hello@webjeda.com # mailto: is automatically added
+  twitter: ramsescoraspe  # https://twitter.com/ is automatically added
+  linkedin: ramsescoraspe # https://www.linkedin.com/in/ is automatically added
+  email: contacto@wittline.com # mailto: is automatically added
   
 gems: 
   - jekyll-seo-tag
