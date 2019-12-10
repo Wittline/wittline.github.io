@@ -13,7 +13,6 @@ url: "https://wittline.github.io/"
 permalink: :title/
 full-url: "https://wittline.github.io/" # the base hostname & protocol for your site
 
-
 # CSS
 sass:
   style: compressed
