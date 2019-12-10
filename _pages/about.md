@@ -5,13 +5,6 @@ permalink: /about/
 show-in-menu: yes
 ---
 
----
-layout: post
-title:  "Why did I Start Learning Coding?"
-description: Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
-date:   2016-09-01 10:50:00 +0530
-categories: code
----
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
 ![]({{site.baseurl}}/images/lost-10.jpg)
