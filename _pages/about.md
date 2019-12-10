@@ -134,7 +134,6 @@ This is a simple markdown table
 | zebra stripes | are neat      |    $1 |
 
 
-
 Use below code to show **Table of Contents** on a page
 
 {% highlight css %}
