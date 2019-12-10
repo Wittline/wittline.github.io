@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Documentation
-description: Documentation will have all the features of the theme mentioned in sections. You can delete this after installation but it is good to keep it as unpublished so that only you can read it.
-categories: general
-author: ashwathama
+title: Machine Learning
+description: The repository contains basic experiments using machine learning algorithms on python
+categories: code
+author: Ramses Coraspe
 ---
 
 ## Features
