@@ -11,7 +11,6 @@ Computer engineer with 10 years of experience participating in projects and soft
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="ramsescoraspe"><a class="LI-simple-link" href='https://mx.linkedin.com/in/ramsescoraspe?trk=profile-badge'>Ramses Alexander Coraspe Valdez</a></div> 
 
-
 ![]({{site.baseurl}}/images/lost-10.jpg)
 
 
