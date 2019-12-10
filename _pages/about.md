@@ -4,7 +4,6 @@ title: About me
 permalink: /about/
 show-in-menu: yes
 ---
-
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
 ![]({{site.baseurl}}/images/lost-10.jpg)
