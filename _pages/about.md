@@ -9,7 +9,6 @@ show-in-menu: yes
 
 Computer engineer with 10 years of experience participating in projects and software development teams for different companies and different kind of business, creating solid and high impact software solutions, wide experience in the business intelligence process lifecycle for the delivery of senior management reports and software architectures. I am currently focused on the research and development of intelligent solutions that involve the development of advanced algorithms, data science techniques, machine learning, deep learning and software architectures. 
 
-These are sample paragraphs showing *italics*, **bold** and ``code`` text style. Here is an unordered  list 
 
 I like working with these technologies:
 
