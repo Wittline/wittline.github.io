@@ -4,6 +4,7 @@ title: About me
 permalink: /about/
 show-in-menu: yes
 ---
+
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 Computer engineer with 10 years of experience participating in projects and software development teams for different companies and different kind of business, creating solid and high impact software solutions, wide experience in the business intelligence process lifecycle for the delivery of senior management reports and software architectures. I am currently focused on the research and development of intelligent solutions that involve the development of advanced algorithms, data science techniques, machine learning, deep learning and software architectures. 
