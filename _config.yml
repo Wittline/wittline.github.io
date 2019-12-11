@@ -34,7 +34,6 @@ redirect-to:
 # Site version
 version: 0.9
 
-
 # Post date background - This will change the background of the post date and tag ribbon according to the theme. If set to no default green background will be used. If yes then the theme color scheme is used.
 
 change-date-bg: yes
