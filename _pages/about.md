@@ -9,6 +9,7 @@ show-in-menu: yes
 Computer engineer with 10 years of experience participating in projects and software development teams for different companies and different kind of business, creating solid and high impact software solutions, wide experience in the business intelligence process lifecycle for the delivery of senior management reports and software architectures. I am currently focused on the research and development of intelligent solutions that involve the development of advanced algorithms, data science techniques, machine learning, deep learning and software architectures. 
 
 <div class="LI-profile-badge"  style= "text-align:center;" data-version="v1" data-size="large" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="ramsescoraspe"><a class="LI-simple-link" href='https://mx.linkedin.com/in/ramsescoraspe?trk=profile-badge'>Ramses Alexander Coraspe Valdez</a></div> 
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="ramsescoraspe"><a class="LI-simple-link" href='https://mx.linkedin.com/in/ramsescoraspe?trk=profile-badge'>Ramses Alexander Coraspe Valdez</a></div>
 
 ![]({{site.baseurl}}/images/lost-10.jpg)
 
