@@ -26,10 +26,10 @@ analytics:
 # Form Settings
 #
 # Contact form can be enabled by getting an API key from https://getsimpleform.com/
-simpleform-token: b6d4be9b039b666b3311e1ddcbfb577c
+simpleform-token: 
 
 # Redirect users after submitting the form
-redirect-to: http://blog.webjeda.com/thank-you/
+redirect-to: 
 
 # Site version
 version: 0.9
@@ -37,7 +37,7 @@ version: 0.9
 
 # Post date background - This will change the background of the post date and tag ribbon according to the theme. If set to no default green background will be used. If yes then the theme color scheme is used.
 
-change-date-bg: no
+change-date-bg: yes
 
 
 # Build settings
