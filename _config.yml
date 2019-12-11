@@ -47,7 +47,7 @@ include: [_pages] # Includes files inside _pages directory [Do not remove this]
 
 author:
   name: Ramses Alexander Coraspe Valdez
-  image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
+  image: w.png # The author image will be shown on the header. Place this image in /images/ folder.
   about: I know you're looking for me a lot on google.
   twitter: ramsescoraspe  # https://twitter.com/ is automatically added
   linkedin: ramsescoraspe # https://www.linkedin.com/in/ is automatically added
